@@ -493,50 +493,6 @@
         "slug": "astrolus-premium"
     },
     {
-        "title": "Odyssey",
-        "description": "A modern, full-featured theme for a business or startup marketing site.",
-        "fullDescription": "<h2>Foundation for a Remarkable Website</h2><p>Odyssey is a modern theme/starter for a business or startup's marketing website. It provides landing page examples, a full-featured blog, contact forms, and more. It is also fully theme-able to match your business' branding and style. It even includes a theme switcher component to show how easily the entire style of the site can be changed with only a few lines of CSS.</p><ul><li>A Fully-featured blog with tagging</li><li>Fully theme-able styles for buttons, shpaes, backgrounds, surfaces, etc.</li><li>Responsive, mobile-friendly landing pages</li><li>SEO Best Practices (Open Graph, Canonical URLs, sitemap)</li><li>Performant local fonts setup</li><li>Contact forms setup for Netlify, Formspree, Formspark, etc.</li><li>A package of ready-to-use UI components</li></ul>",
-        "image": {
-            "src": "./images/odyssey-hero.png",
-            "alt": "A modern, full-featured theme for a business or startup marketing site."
-        },
-        "images": [
-            {
-                "src": "./images/odyssey.png",
-                "alt": "A modern, full-featured theme for a business or startup marketing site."
-            }
-        ],
-        "repoUrl": {
-            "href": "https://github.com/littlesticks/odyssey-theme",
-            "text": "Odyssey"
-        },
-        "demoUrl": {
-            "href": "https://odyssey-theme.littlesticks.dev/",
-            "text": "Odyssey"
-        },
-        "links": [
-            {
-                "href": "https://littlesticks.dev/discord",
-                "text": "Get help on Discord"
-            },
-            {
-                "href": "https://littlesticks.lemonsqueezy.com/checkout/buy/9b78751f-6382-442d-ac99-32c2318b70a0",
-                "text": "Support this theme"
-            }
-        ],
-        "categories": [
-            "landing-page"
-        ],
-        "featured": 3,
-        "slug": "odyssey",
-        "stars": 205,
-        "author": {
-            "text": "littlesticks",
-            "href": "https://github.com/littlesticks",
-            "avatar": "https://avatars.githubusercontent.com/u/105570423?v=4"
-        }
-    },
-    {
         "title": "Blogster Minimal",
         "description": "A lightweight, minimal Astro theme that looks great and loads fast.",
         "image": {
@@ -644,6 +600,37 @@
             "href": "https://github.com/flexdinesh",
             "avatar": "https://avatars.githubusercontent.com/u/5777880?v=4"
         }
+    },
+    {
+        "title": "Buio",
+        "description": "Buio is dark, modern, beautiful and egocentric UI Kit for those with personality!",
+        "fullDescription": "<p>✺&nbsp;<strong>Buio UI kit</strong>&nbsp;━&nbsp;boasts an exquisite design that empowers you to efficiently create pages across diverse categories and customize them to your preferences, facilitating the construction of a landing page or website within hours instead of months.</p><p>The template is versatile and can be applied to various types of websites, such as marketing, saas, or product websites.</p><p><strong>The template includes:</strong></p><ul><li><strong>30+ Demo pages</strong></li><li><strong>80+ Sections</strong></li><li><strong>100+ Components</strong></li><li>4 Landing page demo</li><li>2 About page</li><li>4 Pricing Page demo</li><li>2 Blog Page layouts</li><li>2 Blog Post layout</li><li>Utility Pages</li><li>Changelog</li><li>Terms Of use</li><li>Privacy Policy</li><li>404</li><li>FAQ</li><li>Contact</li><li>Submit</li><li>Login</li><li>Sign up</li><li>Forgot Password</li><li>License</li><li>Recruiting</li><li>Carriers</li><li>Carries entries</li><li>Carriers application</li><li>Style Guide</li><li>17 Different feature sections</li><li>7 Different pricing sections</li><li>2 Footers</li><li>5 Different call to action</li><li>4 Different header sections</li></ul><p><strong>The template also includes a</strong></p><ul><li>Style Guide</li><li>Icons from Tabler Icons</li><li>Custom fonts from cdnfonts.com ( Only the CDN )</li><li>100%&nbsp;Responsive</li><li>A link to every demo page from the overview page</li></ul><p>When you purchase the template you get access to a very permissive license that you can read from here</p><ul><li><a href=\"https://lexingtonthemes.com/license/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\">License: lexingtonthemes.com/license</a></li></ul><p><strong>If you have any questions do not hesitate to reach out on:</strong></p><ul><li>Twitter.com/Mike_Andreuzza or&nbsp;Twitter.com/lexingtonthemes</li><li>Email: michael@lexingtonthemes.com</li></ul><p>Thank you so much for reading and showing interest on Buio, if you need more templates, a bundle that includes all the templates, free updates is also offered on Lexington Themes.&nbsp;</p><ul><li><a href=\"https://lexingtonthemes.com/pricing/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\">Learn more about the bundle</a></li></ul><p><br></p>",
+        "image": {
+            "src": "./images/buio-hero.png",
+            "alt": "Buio is dark, modern, beautiful and egocentric UI Kit for those with personality!"
+        },
+        "buyUrl": {
+            "href": "https://lexingtonthemes.lemonsqueezy.com/checkout/buy/7c47adfc-931d-44b3-ba34-7eea96f43121",
+            "text": "Buy now"
+        },
+        "demoUrl": {
+            "href": "https://lexingtonthemes.com/viewports/buio/",
+            "text": "Buio"
+        },
+        "categories": [
+            "landing-page",
+            "other"
+        ],
+        "tags": [
+            "tailwind",
+            "alpinejs"
+        ],
+        "author": {
+            "href": "https://lexingtonthemes.com/",
+            "text": "Lexington Themes"
+        },
+        "slug": "buio",
+        "images": []
     },
     {
         "title": "Creek",
@@ -763,6 +750,50 @@
         },
         "slug": "flabbergasted",
         "images": []
+    },
+    {
+        "title": "Odyssey",
+        "description": "A modern, full-featured theme for a business or startup marketing site.",
+        "fullDescription": "<h2>Foundation for a Remarkable Website</h2><p>Odyssey is a modern theme/starter for a business or startup's marketing website. It provides landing page examples, a full-featured blog, contact forms, and more. It is also fully theme-able to match your business' branding and style. It even includes a theme switcher component to show how easily the entire style of the site can be changed with only a few lines of CSS.</p><ul><li>A Fully-featured blog with tagging</li><li>Fully theme-able styles for buttons, shpaes, backgrounds, surfaces, etc.</li><li>Responsive, mobile-friendly landing pages</li><li>SEO Best Practices (Open Graph, Canonical URLs, sitemap)</li><li>Performant local fonts setup</li><li>Contact forms setup for Netlify, Formspree, Formspark, etc.</li><li>A package of ready-to-use UI components</li></ul>",
+        "image": {
+            "src": "./images/odyssey-hero.png",
+            "alt": "A modern, full-featured theme for a business or startup marketing site."
+        },
+        "images": [
+            {
+                "src": "./images/odyssey.png",
+                "alt": "A modern, full-featured theme for a business or startup marketing site."
+            }
+        ],
+        "repoUrl": {
+            "href": "https://github.com/littlesticks/odyssey-theme",
+            "text": "Odyssey"
+        },
+        "demoUrl": {
+            "href": "https://odyssey-theme.littlesticks.dev/",
+            "text": "Odyssey"
+        },
+        "links": [
+            {
+                "href": "https://littlesticks.dev/discord",
+                "text": "Get help on Discord"
+            },
+            {
+                "href": "https://littlesticks.lemonsqueezy.com/checkout/buy/9b78751f-6382-442d-ac99-32c2318b70a0",
+                "text": "Support this theme"
+            }
+        ],
+        "categories": [
+            "landing-page"
+        ],
+        "featured": 3,
+        "slug": "odyssey",
+        "stars": 205,
+        "author": {
+            "text": "littlesticks",
+            "href": "https://github.com/littlesticks",
+            "avatar": "https://avatars.githubusercontent.com/u/105570423?v=4"
+        }
     },
     {
         "title": "Galaxy ",
@@ -2512,6 +2543,64 @@
         }
     },
     {
+        "title": "Massively",
+        "description": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license.",
+        "image": {
+            "src": "./images/massively.png",
+            "alt": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license."
+        },
+        "repoUrl": {
+            "href": "https://github.com/DBozhinovski/astro-massively",
+            "text": "Massively"
+        },
+        "demoUrl": {
+            "href": "https://astro-massively.darko.io/",
+            "text": "Massively"
+        },
+        "categories": [
+            "other"
+        ],
+        "tags": [
+            "sass",
+            "mdx"
+        ],
+        "slug": "massively",
+        "images": [],
+        "stars": 4,
+        "author": {
+            "text": "DBozhinovski",
+            "href": "https://github.com/DBozhinovski",
+            "avatar": "https://avatars.githubusercontent.com/u/271746?v=4"
+        }
+    },
+    {
+        "title": "StyleGAN3",
+        "description": "A simple template with Astro and StyleGAN3 style.",
+        "image": {
+            "src": "./images/stylegan3.png",
+            "alt": "A simple template with Astro and StyleGAN3 style."
+        },
+        "repoUrl": {
+            "href": "https://github.com/AREA44/astro-stylegan3",
+            "text": "StyleGAN3"
+        },
+        "demoUrl": {
+            "href": "https://area44.github.io/astro-stylegan3/",
+            "text": "StyleGAN3"
+        },
+        "categories": [
+            "minimal"
+        ],
+        "slug": "stylegan3",
+        "images": [],
+        "stars": 3,
+        "author": {
+            "text": "AREA44",
+            "href": "https://github.com/AREA44",
+            "avatar": "https://avatars.githubusercontent.com/u/45186712?v=4"
+        }
+    },
+    {
         "title": "Cute Blog",
         "description": "Blog with simple and unique design to create blog site using Astro, features cute blog with card design, markdown ready, and blog post cover image.",
         "image": {
@@ -2566,64 +2655,6 @@
             "text": "withastro",
             "href": "https://github.com/withastro",
             "avatar": "https://avatars.githubusercontent.com/u/44914786?v=4"
-        }
-    },
-    {
-        "title": "StyleGAN3",
-        "description": "A simple template with Astro and StyleGAN3 style.",
-        "image": {
-            "src": "./images/stylegan3.png",
-            "alt": "A simple template with Astro and StyleGAN3 style."
-        },
-        "repoUrl": {
-            "href": "https://github.com/AREA44/astro-stylegan3",
-            "text": "StyleGAN3"
-        },
-        "demoUrl": {
-            "href": "https://area44.github.io/astro-stylegan3/",
-            "text": "StyleGAN3"
-        },
-        "categories": [
-            "minimal"
-        ],
-        "slug": "stylegan3",
-        "images": [],
-        "stars": 3,
-        "author": {
-            "text": "AREA44",
-            "href": "https://github.com/AREA44",
-            "avatar": "https://avatars.githubusercontent.com/u/45186712?v=4"
-        }
-    },
-    {
-        "title": "Massively",
-        "description": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license.",
-        "image": {
-            "src": "./images/massively.png",
-            "alt": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license."
-        },
-        "repoUrl": {
-            "href": "https://github.com/DBozhinovski/astro-massively",
-            "text": "Massively"
-        },
-        "demoUrl": {
-            "href": "https://astro-massively.darko.io/",
-            "text": "Massively"
-        },
-        "categories": [
-            "other"
-        ],
-        "tags": [
-            "sass",
-            "mdx"
-        ],
-        "slug": "massively",
-        "images": [],
-        "stars": 0,
-        "author": {
-            "text": "DBozhinovski",
-            "href": "https://github.com/DBozhinovski",
-            "avatar": "https://avatars.githubusercontent.com/u/271746?v=4"
         }
     }
 ]
