@@ -219,7 +219,7 @@
         ],
         "featured": 8,
         "slug": "accessible-astro-starter",
-        "stars": 156,
+        "stars": 157,
         "author": {
             "text": "markteekman",
             "href": "https://github.com/markteekman",
@@ -697,79 +697,6 @@
         }
     },
     {
-        "title": "Quick Store",
-        "description": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy.",
-        "fullDescription": "<p><span style=\"color: var(--tw-prose-bold);\">Built with Astro.js</span></p><p>Astro is an all-in-one web framework for building fast, content-focused websites.</p><p><span style=\"color: var(--tw-prose-bold);\">Styled with Tailwind CSS</span></p><p>Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.</p><p><span style=\"color: var(--tw-prose-bold);\">Relived with Alpine.js</span></p><p>Alpine is a rugged, minimal tool for composing behavior directly in your markup. Think of it like jQuery for the modern web. Plop in a script tag and get going.</p><p><span style=\"color: var(--tw-prose-bold);\">Keyboard accessible</span></p><p>Everything I build is keyboard accessible, and I meticulously write the markup to deliver the best screenreader experience I can provide.</p><p><span style=\"color: var(--tw-prose-bold);\">Production-ready</span></p><p>I tested the template in the latest versions of all browsers to handle lots of edge-cases you might encounter.</p><p><span style=\"color: var(--tw-prose-bold);\">Simple deploys</span></p><p>The template is production-ready and easily deployed anywhere that you can deploy a static wbsites, like Vercel, Netlify, GitHub pages, a bounch of options..</p><p><br></p><h2>Plugins, integrations and stack.</h2><p>Supreme templates are thoughtfully crafted with the latest Astro, Tailwind and Alpine.js integrations and versions to keep it simple and easy to maintain.</p><h2>Uses</h2><ul><li>Tailwind</li><li>@astrojs/alpinejs</li><li>@astrojs/seo</li><li>@astrojs/image</li><li>@astrojs/compress</li><li>@astrojs/sitemap</li><li>@astrojs/partytown</li></ul><p><br></p>",
-        "image": {
-            "src": "./images/quick-store-hero.png",
-            "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
-        },
-        "images": [
-            {
-                "src": "./images/quick-store-2.png",
-                "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
-            },
-            {
-                "src": "./images/quick-store-3.png",
-                "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
-            }
-        ],
-        "repoUrl": {
-            "href": "https://github.com/michael-andreuzza/quickstore",
-            "text": "Quick Store"
-        },
-        "demoUrl": {
-            "href": "https://github.com/michael-andreuzza/quickstore",
-            "text": "Quick Store"
-        },
-        "categories": [
-            "other"
-        ],
-        "tags": [
-            "tailwind"
-        ],
-        "slug": "quick-store",
-        "stars": 16,
-        "author": {
-            "text": "michael-andreuzza",
-            "href": "https://github.com/michael-andreuzza",
-            "avatar": "https://avatars.githubusercontent.com/u/34077176?v=4"
-        }
-    },
-    {
-        "title": "Stablo Blog Template",
-        "description": "Stablo is a free and open-source blog template that is designed to be minimal and easy to use. It is built using Astro, Tailwind CSS, and MDX.",
-        "image": {
-            "src": "./images/stablo-blog-hero.png",
-            "alt": "Stablo is a free and open-source blog template that is designed to be minimal and easy to use. It is built using Astro, Tailwind CSS, and MDX."
-        },
-        "images": [
-            {
-                "src": "./images/stablo-blog-2.png",
-                "alt": "Stablo is a free and open-source blog template that is designed to be minimal and easy to use. It is built using Astro, Tailwind CSS, and MDX."
-            }
-        ],
-        "repoUrl": {
-            "href": "https://github.com/web3templates/stablo-astro",
-            "text": "Stablo Blog Template"
-        },
-        "demoUrl": {
-            "href": "https://stablo-astro.web3templates.com/",
-            "text": "Stablo Blog Template"
-        },
-        "categories": [
-            "blog"
-        ],
-        "fullDescription": "<p>Stablo is a free and open-source blog template that is designed to be minimal and easy to use. It is built using Astro, Tailwind CSS, and MDX. With Stablo, you can launch a fully functional blog for your personal website or startup in just a few minutes.</p><p>Some of the key features of Stablo include:</p><p><strong>Built with Astro, MDX and Tailwind CSS</strong></p><p>Stablo is built using Astro, MDX and Tailwind CSS. Together, these tools provide a solid foundation for building a sleek and functional blog template.</p><p><strong>Fully mobile responsive template</strong></p><p>Stablo is designed to be fully mobile responsive, meaning that it will automatically adjust its layout and design to look great on any device, whether it's a desktop computer, a laptop, a tablet, or a smartphone. This is important because it ensures that your blog will be accessible and easy to use for all of your visitors.</p><p><strong>Clean, modern, and minimal design</strong></p><p>Stablo has a clean, modern, and minimal design that is perfect for a blog. It has a simple and uncluttered layout that is easy to navigate and focused on the content. The template is also designed to be easy on the eyes, with a color palette that is pleasing to look at and easy to read.</p><p><strong>Configurable dark and light themes</strong></p><p>Stablo comes with both a dark &amp; light theme along with System \"Auto\" which allows the template to automatically adapt its theme based on the system theme of the device it is being viewed on.</p><p><strong>About and Archive pages</strong></p><p>Stablo includes about and archive pages that you can use to provide more information about yourself or your blog, and to organize and categorize your content.</p><p><strong>Working Contact page</strong></p><p>Stablo comes with a working contact page that is powered by&nbsp;<a href=\"https://web3forms.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(9, 78, 192);\">Web3Forms</a>. This allows you to easily set up a contact form on your blog so that your readers can get in touch with you. The form is easy to use and can be customized to suit your needs.</p><p>This template is sponsored by&nbsp;<a href=\"https://web3templates.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(9, 78, 192);\">Web3Templates</a>, so it is available to use for free.</p><p><strong>Links</strong></p><ul><li><a href=\"https://web3templates.com/templates/stablo-minimal-blog-website-template\" rel=\"noopener noreferrer\" target=\"_blank\">Learn More</a></li><li><a href=\"https://docs.web3templates.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Documentation</a></li><li><a href=\"https://twitter.com/surjithctly\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li></ul>",
-        "slug": "stablo-blog",
-        "stars": 11,
-        "author": {
-            "text": "web3templates",
-            "href": "https://github.com/web3templates",
-            "avatar": "https://avatars.githubusercontent.com/u/29835034?v=4"
-        }
-    },
-    {
         "title": "Dokto - Doctor Appointments Landing Page",
         "description": "Dokto is a clean and modern HTML landing page starter built with Tailwind CSS and Alpine JS",
         "image": {
@@ -922,6 +849,37 @@
         }
     },
     {
+        "title": "Navy",
+        "description": "Navy is a modern dark elegant UI KIt with attention to details",
+        "fullDescription": "<p>✺&nbsp;<span style=\"color: var(--tw-prose-bold);\">Navy UI kit</span>&nbsp;━&nbsp;boasts an exquisite design that empowers you to efficiently create pages across diverse categories and customize them to your preferences, facilitating the construction of a landing page or website within hours instead of months.</p><p>The template is versatile and can be applied to various types of websites, such as marketing, SaaS, or product websites.</p><p><strong style=\"color: var(--tw-prose-bold);\">The template includes:</strong></p><ul><li><span style=\"color: var(--tw-prose-bold);\">30+ Demo pages</span></li><li><span style=\"color: var(--tw-prose-bold);\">70+ Sections</span></li><li><span style=\"color: var(--tw-prose-bold);\">100+ Components</span></li><li>2 Landing page demo</li><li>About&nbsp;</li><li>3 Pricing page demo pages</li><li>2 Blog entries layouts</li><li>2 Blog posts layouts</li><li>Changelog</li><li>Terms Of use</li><li>Privacy Policy</li><li>Coming Soon</li><li>404</li><li>Contact</li><li>Sign in</li><li>Sign up</li><li>Forgot Password</li><li>System Pages</li><li>Style Guide</li><li>License</li></ul><p><strong style=\"color: var(--tw-prose-bold);\">The template also includes:</strong></p><ul><li>Style Guide</li><li>Icons from Tabler Icons</li><li>Custom fonts from: Inter</li><li>100%&nbsp;Responsive</li><li>A link to every demo page from the overview page</li></ul><p>When you purchase the template you get access to a very permissive license that you can read from here</p><ul><li><a href=\"https://lexingtonthemes.com/license/\" rel=\"noopener noreferrer\" target=\"_blank\">License: lexingtonthemes.com/license</a></li></ul><p><span style=\"color: var(--tw-prose-bold);\">If you have any questions do not hesitate t reach out on:</span></p><ul><li>Twitter.com/Mike_Andreuzza or&nbsp;Twitter.com/lexingtonthemes</li><li>Email: michael@lexingtonthemes.com</li></ul><p>Thank you so much for reading and showing interest on Navy, if you need more templates, a bundle that includes all the templates, free updates is also offered on Lexington Themes.&nbsp;</p><ul><li><a href=\"https://lexingtonthemes.com/pricing/\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about the bundle</a></li></ul><p><br></p>",
+        "image": {
+            "src": "./images/navy-hero.png",
+            "alt": "Navy is a modern dark elegant UI KIt with attention to details"
+        },
+        "buyUrl": {
+            "href": "https://lexingtonthemes.lemonsqueezy.com/checkout/buy/cad98266-24b3-47fd-99a6-e65ad9af37f6",
+            "text": "Buy now"
+        },
+        "demoUrl": {
+            "href": "https://lexingtonthemes.com/viewports/navy/",
+            "text": "Navy"
+        },
+        "categories": [
+            "landing-page",
+            "other"
+        ],
+        "tags": [
+            "tailwind",
+            "alpinejs"
+        ],
+        "author": {
+            "href": "https://lexingtonthemes.com/",
+            "text": "Lexington Themes"
+        },
+        "slug": "navy",
+        "images": []
+    },
+    {
         "title": "Nebula 🔮",
         "description": "Nebula is a template for your iOS apps.",
         "image": {
@@ -1048,6 +1006,46 @@
         "slug": "pro-file"
     },
     {
+        "title": "Quick Store",
+        "description": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy.",
+        "fullDescription": "<p><span style=\"color: var(--tw-prose-bold);\">Built with Astro.js</span></p><p>Astro is an all-in-one web framework for building fast, content-focused websites.</p><p><span style=\"color: var(--tw-prose-bold);\">Styled with Tailwind CSS</span></p><p>Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.</p><p><span style=\"color: var(--tw-prose-bold);\">Relived with Alpine.js</span></p><p>Alpine is a rugged, minimal tool for composing behavior directly in your markup. Think of it like jQuery for the modern web. Plop in a script tag and get going.</p><p><span style=\"color: var(--tw-prose-bold);\">Keyboard accessible</span></p><p>Everything I build is keyboard accessible, and I meticulously write the markup to deliver the best screenreader experience I can provide.</p><p><span style=\"color: var(--tw-prose-bold);\">Production-ready</span></p><p>I tested the template in the latest versions of all browsers to handle lots of edge-cases you might encounter.</p><p><span style=\"color: var(--tw-prose-bold);\">Simple deploys</span></p><p>The template is production-ready and easily deployed anywhere that you can deploy a static wbsites, like Vercel, Netlify, GitHub pages, a bounch of options..</p><p><br></p><h2>Plugins, integrations and stack.</h2><p>Supreme templates are thoughtfully crafted with the latest Astro, Tailwind and Alpine.js integrations and versions to keep it simple and easy to maintain.</p><h2>Uses</h2><ul><li>Tailwind</li><li>@astrojs/alpinejs</li><li>@astrojs/seo</li><li>@astrojs/image</li><li>@astrojs/compress</li><li>@astrojs/sitemap</li><li>@astrojs/partytown</li></ul><p><br></p>",
+        "image": {
+            "src": "./images/quick-store-hero.png",
+            "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
+        },
+        "images": [
+            {
+                "src": "./images/quick-store-2.png",
+                "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
+            },
+            {
+                "src": "./images/quick-store-3.png",
+                "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
+            }
+        ],
+        "repoUrl": {
+            "href": "https://github.com/michael-andreuzza/quickstore",
+            "text": "Quick Store"
+        },
+        "demoUrl": {
+            "href": "https://github.com/michael-andreuzza/quickstore",
+            "text": "Quick Store"
+        },
+        "categories": [
+            "other"
+        ],
+        "tags": [
+            "tailwind"
+        ],
+        "slug": "quick-store",
+        "stars": 16,
+        "author": {
+            "text": "michael-andreuzza",
+            "href": "https://github.com/michael-andreuzza",
+            "avatar": "https://avatars.githubusercontent.com/u/34077176?v=4"
+        }
+    },
+    {
         "title": "Semplice",
         "description": "A modern & clean UI Kit with more than 70 sections, 40 demo pages and 100s of components.",
         "fullDescription": "<p>✺&nbsp;<strong>Semplice UI kit</strong>&nbsp;━&nbsp;boasts an exquisite design that empowers you to efficiently create pages across diverse categories and customize them to your preferences, facilitating the construction of a landing page or website within hours instead of months. </p><p>The template is versatile and can be applied to various types of websites, such as marketing, saas, or product websites. </p><p>Semplice also comes with a settings dashboard that has 6 demo pages, which can be beneficial if you want to grant your customers access.</p><p><strong>The template includes:</strong></p><ul><li> <strong>30+ Demo pages</strong></li><li><strong>70+ Sections</strong></li><li><strong>100+ Components</strong></li><li>2 Landing page demo</li><li>About</li><li>Blog</li><li>Blog Post</li><li>Jobs</li><li>Open Postions</li><li>Postion</li><li>Status</li><li>Terms Of use</li><li>Privacy Policy</li><li>Coming Soon</li><li>404</li><li>Contact</li><li>Submit</li><li>Login</li><li>Sign up</li><li>Forgot Password</li><li>Reset Password</li><li>Help Center</li><li>Single Topic</li><li>Article</li><li>Video Article</li><li>Course Library</li><li>Lesson</li><li>Changelog</li><li>Settings Dashboard</li><li>General</li><li>Teams</li><li>Conexions</li><li>Billing</li><li>Invoices</li><li>Tokens</li><li>System Pages</li></ul><p><strong>The template also includes a</strong></p><ul><li>Style Guide</li><li>Icons from Tabler Icons</li><li>Custom fonts from cdnfonts.com ( Only the CDN )</li><li>100%&nbsp;Responsive</li><li>A link to every demo page from the overview page</li></ul><p>When you purchase the template you get access to a very permissive license that you can read from here</p><ul><li><a href=\"https://lexingtonthemes.com/license/\" rel=\"noopener noreferrer\" target=\"_blank\">License: lexingtonthemes.com/license</a></li></ul><p><strong>If you have any questions do not hesitate t reach out on:</strong></p><ul><li>Twitter.com/Mike_Andreuzza or&nbsp;Twitter.com/lexingtonthemes</li><li>Email: michael@lexingtonthemes.com</li></ul><p>Thank you so much for reading and showing interest on Semplice, if you need more templates, a bundle that includes all the templates, free updates is also offered on Lexington Themes.&nbsp;</p><ul><li><a href=\"https://lexingtonthemes.com/pricing/\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about the bundle</a></li></ul>",
@@ -1077,6 +1075,39 @@
         },
         "slug": "semplice",
         "images": []
+    },
+    {
+        "title": "Stablo Blog Template",
+        "description": "Stablo is a free and open-source blog template that is designed to be minimal and easy to use. It is built using Astro, Tailwind CSS, and MDX.",
+        "image": {
+            "src": "./images/stablo-blog-hero.png",
+            "alt": "Stablo is a free and open-source blog template that is designed to be minimal and easy to use. It is built using Astro, Tailwind CSS, and MDX."
+        },
+        "images": [
+            {
+                "src": "./images/stablo-blog-2.png",
+                "alt": "Stablo is a free and open-source blog template that is designed to be minimal and easy to use. It is built using Astro, Tailwind CSS, and MDX."
+            }
+        ],
+        "repoUrl": {
+            "href": "https://github.com/web3templates/stablo-astro",
+            "text": "Stablo Blog Template"
+        },
+        "demoUrl": {
+            "href": "https://stablo-astro.web3templates.com/",
+            "text": "Stablo Blog Template"
+        },
+        "categories": [
+            "blog"
+        ],
+        "fullDescription": "<p>Stablo is a free and open-source blog template that is designed to be minimal and easy to use. It is built using Astro, Tailwind CSS, and MDX. With Stablo, you can launch a fully functional blog for your personal website or startup in just a few minutes.</p><p>Some of the key features of Stablo include:</p><p><strong>Built with Astro, MDX and Tailwind CSS</strong></p><p>Stablo is built using Astro, MDX and Tailwind CSS. Together, these tools provide a solid foundation for building a sleek and functional blog template.</p><p><strong>Fully mobile responsive template</strong></p><p>Stablo is designed to be fully mobile responsive, meaning that it will automatically adjust its layout and design to look great on any device, whether it's a desktop computer, a laptop, a tablet, or a smartphone. This is important because it ensures that your blog will be accessible and easy to use for all of your visitors.</p><p><strong>Clean, modern, and minimal design</strong></p><p>Stablo has a clean, modern, and minimal design that is perfect for a blog. It has a simple and uncluttered layout that is easy to navigate and focused on the content. The template is also designed to be easy on the eyes, with a color palette that is pleasing to look at and easy to read.</p><p><strong>Configurable dark and light themes</strong></p><p>Stablo comes with both a dark &amp; light theme along with System \"Auto\" which allows the template to automatically adapt its theme based on the system theme of the device it is being viewed on.</p><p><strong>About and Archive pages</strong></p><p>Stablo includes about and archive pages that you can use to provide more information about yourself or your blog, and to organize and categorize your content.</p><p><strong>Working Contact page</strong></p><p>Stablo comes with a working contact page that is powered by&nbsp;<a href=\"https://web3forms.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(9, 78, 192);\">Web3Forms</a>. This allows you to easily set up a contact form on your blog so that your readers can get in touch with you. The form is easy to use and can be customized to suit your needs.</p><p>This template is sponsored by&nbsp;<a href=\"https://web3templates.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(9, 78, 192);\">Web3Templates</a>, so it is available to use for free.</p><p><strong>Links</strong></p><ul><li><a href=\"https://web3templates.com/templates/stablo-minimal-blog-website-template\" rel=\"noopener noreferrer\" target=\"_blank\">Learn More</a></li><li><a href=\"https://docs.web3templates.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Documentation</a></li><li><a href=\"https://twitter.com/surjithctly\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li></ul>",
+        "slug": "stablo-blog",
+        "stars": 11,
+        "author": {
+            "text": "web3templates",
+            "href": "https://github.com/web3templates",
+            "avatar": "https://avatars.githubusercontent.com/u/29835034?v=4"
+        }
     },
     {
         "title": "Super Solstice",
