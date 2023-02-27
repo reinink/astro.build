@@ -227,6 +227,46 @@
         }
     },
     {
+        "title": "Blogster Bubblegum",
+        "description": "A beautiful, performant and accessible theme built with Tailwind.",
+        "image": {
+            "src": "./images/blogster-bubblegum-hero.png",
+            "alt": "A beautiful, performant and accessible theme built with Tailwind."
+        },
+        "repoUrl": {
+            "href": "https://github.com/flexdinesh/blogster",
+            "text": "Blogster Bubblegum"
+        },
+        "demoUrl": {
+            "href": "https://blogster-bubblegum.netlify.app",
+            "text": "Blogster Bubblegum"
+        },
+        "categories": [
+            "blog"
+        ],
+        "tags": [
+            "tailwind",
+            "typescript"
+        ],
+        "keywords": [
+            "blogster",
+            "blog",
+            "minimal",
+            "tailwind",
+            "typescript"
+        ],
+        "fullDescription": "<p>A beautiful, performant and accessible theme built with <a href=\"https://tailwindcss.com\" rel=\"noopener noreferrer\" target=\"_blank\">Tailwind</a>.</p><ul><li><strong>Bubblegum.</strong> A colorful <a href=\"https://astro.build\" rel=\"noopener noreferrer\" target=\"_blank\">Astro</a> theme built with <a href=\"https://tailwindcss.com\" rel=\"noopener noreferrer\" target=\"_blank\">Tailwind</a>.</li><li><strong>Fast.</strong> Fast by default. Blogster templates are engineered to be performant and load before you could blink, even when not cached.</li><li><strong>Dark mode.</strong> Auto dark mode with a manual toggle. Hit that toggle button at the top of the page and see the mode change.</li><li><strong>Mobile first.</strong> Responsive and loads fast in all devices.</li><li><strong>Accessible.</strong> A well thought out semantic and accessible content.</li><li><strong>Perfect lighthouse score.</strong> 100 across the board.</li><li><strong>Content authoring for everyone.</strong> Author content using markdown (<code>.md</code>) from your code editor or directly in GitHub.</li><li> <strong>Extended markdown</strong> with <a href=\"https://markdoc.dev\" rel=\"noopener noreferrer\" target=\"_blank\">Markdoc</a>.   Type-safe custom components like YouTube embed, Twitter embed (or anything you want really) in your markdown (<code>.md</code>) files.</li><li>Built-in <strong>RSS feed</strong> for your blog, excellent<strong> SEO</strong> and more.</li></ul>",
+        "featured": 11,
+        "slug": "blogster-bubblegum",
+        "images": [],
+        "stars": 145,
+        "author": {
+            "text": "flexdinesh",
+            "href": "https://github.com/flexdinesh",
+            "avatar": "https://avatars.githubusercontent.com/u/5777880?v=4"
+        }
+    },
+    {
         "title": "Astro Ecommerce",
         "description": "Introducing Astro Ecommerce, the ultimate starter template for your e-commerce web project. Built on Astro's next-gen island architecture, Astro Ecommerce offers a sleek and modern design with a wide range of components and features to help you create a stunning online store.Introducing Astro Ecommerce, the ultimate starter template for your e-commerce web project. Built on Astro's next-gen island architecture, Astro Ecommerce offers a sleek and modern design with a wide range of components and features to help you create a stunning online store.",
         "fullDescription": "<p>Coming with a great number of fully coded elements and pages, <strong>Astro Ecommerce</strong> makes it easy to quickly and efficiently build your e-commerce website. And with its responsive design, your store will look great on any device, ensuring that your customers have a seamless shopping experience.</p><p><br></p><p><strong>Main Features</strong></p><p>Build your e-commerce website quickly and efficiently with:</p><p>- 70+ fully coded elements</p><p>- 3 fully coded example pages</p><p>- 30+ blocks</p><p>- Responsive design</p><p><br></p><p><strong>Example Pages</strong></p><p>We created a set of pre-built pages to help you get inspired or show something to your clients. See them below:</p><p>- <a href=\"https://demos.creative-tim.com/astro-ecommerce/landing/\" rel=\"noopener noreferrer\" target=\"_blank\">Landing Page</a>: Designed to introduce the website's purpose and encourage the user to take an action.</p><p>- <a href=\"https://demos.creative-tim.com/astro-ecommerce/product/\" rel=\"noopener noreferrer\" target=\"_blank\">Product Page</a>: It's designed to give the user all the information they need to make a purchase decision</p><p>- <a href=\"https://demos.creative-tim.com/astro-ecommerce/shopping-cart/\" rel=\"noopener noreferrer\" target=\"_blank\">Shopping Page</a>: Includes a summary of the items in the cart and a form for billing and shipping information.</p><p>- more+</p><p>Astro Ecommerce has everything you need to create the e-commerce website of your dreams.</p>",
@@ -453,43 +493,47 @@
         "slug": "astrolus-premium"
     },
     {
-        "title": "Blogster Bubblegum",
-        "description": "A beautiful, performant and accessible theme built with Tailwind.",
+        "title": "Odyssey",
+        "description": "A modern, full-featured theme for a business or startup marketing site.",
+        "fullDescription": "<h2>Foundation for a Remarkable Website</h2><p>Odyssey is a modern theme/starter for a business or startup's marketing website. It provides landing page examples, a full-featured blog, contact forms, and more. It is also fully theme-able to match your business' branding and style. It even includes a theme switcher component to show how easily the entire style of the site can be changed with only a few lines of CSS.</p><ul><li>A Fully-featured blog with tagging</li><li>Fully theme-able styles for buttons, shpaes, backgrounds, surfaces, etc.</li><li>Responsive, mobile-friendly landing pages</li><li>SEO Best Practices (Open Graph, Canonical URLs, sitemap)</li><li>Performant local fonts setup</li><li>Contact forms setup for Netlify, Formspree, Formspark, etc.</li><li>A package of ready-to-use UI components</li></ul>",
         "image": {
-            "src": "./images/blogster-bubblegum-hero.png",
-            "alt": "A beautiful, performant and accessible theme built with Tailwind."
+            "src": "./images/odyssey-hero.png",
+            "alt": "A modern, full-featured theme for a business or startup marketing site."
         },
+        "images": [
+            {
+                "src": "./images/odyssey.png",
+                "alt": "A modern, full-featured theme for a business or startup marketing site."
+            }
+        ],
         "repoUrl": {
-            "href": "https://github.com/flexdinesh/blogster",
-            "text": "Blogster Bubblegum"
+            "href": "https://github.com/littlesticks/odyssey-theme",
+            "text": "Odyssey"
         },
         "demoUrl": {
-            "href": "https://blogster-bubblegum.netlify.app",
-            "text": "Blogster Bubblegum"
+            "href": "https://odyssey-theme.littlesticks.dev/",
+            "text": "Odyssey"
         },
+        "links": [
+            {
+                "href": "https://littlesticks.dev/discord",
+                "text": "Get help on Discord"
+            },
+            {
+                "href": "https://littlesticks.lemonsqueezy.com/checkout/buy/9b78751f-6382-442d-ac99-32c2318b70a0",
+                "text": "Support this theme"
+            }
+        ],
         "categories": [
-            "blog"
+            "landing-page"
         ],
-        "tags": [
-            "tailwind",
-            "typescript"
-        ],
-        "keywords": [
-            "blogster",
-            "blog",
-            "minimal",
-            "tailwind",
-            "typescript"
-        ],
-        "fullDescription": "<p>A beautiful, performant and accessible theme built with <a href=\"https://tailwindcss.com\" rel=\"noopener noreferrer\" target=\"_blank\">Tailwind</a>.</p><ul><li><strong>Bubblegum.</strong> A colorful <a href=\"https://astro.build\" rel=\"noopener noreferrer\" target=\"_blank\">Astro</a> theme built with <a href=\"https://tailwindcss.com\" rel=\"noopener noreferrer\" target=\"_blank\">Tailwind</a>.</li><li><strong>Fast.</strong> Fast by default. Blogster templates are engineered to be performant and load before you could blink, even when not cached.</li><li><strong>Dark mode.</strong> Auto dark mode with a manual toggle. Hit that toggle button at the top of the page and see the mode change.</li><li><strong>Mobile first.</strong> Responsive and loads fast in all devices.</li><li><strong>Accessible.</strong> A well thought out semantic and accessible content.</li><li><strong>Perfect lighthouse score.</strong> 100 across the board.</li><li><strong>Content authoring for everyone.</strong> Author content using markdown (<code>.md</code>) from your code editor or directly in GitHub.</li><li> <strong>Extended markdown</strong> with <a href=\"https://markdoc.dev\" rel=\"noopener noreferrer\" target=\"_blank\">Markdoc</a>.   Type-safe custom components like YouTube embed, Twitter embed (or anything you want really) in your markdown (<code>.md</code>) files.</li><li>Built-in <strong>RSS feed</strong> for your blog, excellent<strong> SEO</strong> and more.</li></ul>",
-        "featured": 11,
-        "slug": "blogster-bubblegum",
-        "images": [],
-        "stars": 145,
+        "featured": 3,
+        "slug": "odyssey",
+        "stars": 205,
         "author": {
-            "text": "flexdinesh",
-            "href": "https://github.com/flexdinesh",
-            "avatar": "https://avatars.githubusercontent.com/u/5777880?v=4"
+            "text": "littlesticks",
+            "href": "https://github.com/littlesticks",
+            "avatar": "https://avatars.githubusercontent.com/u/105570423?v=4"
         }
     },
     {
@@ -719,50 +763,6 @@
         },
         "slug": "flabbergasted",
         "images": []
-    },
-    {
-        "title": "Odyssey",
-        "description": "A modern, full-featured theme for a business or startup marketing site.",
-        "fullDescription": "<h2>Foundation for a Remarkable Website</h2><p>Odyssey is a modern theme/starter for a business or startup's marketing website. It provides landing page examples, a full-featured blog, contact forms, and more. It is also fully theme-able to match your business' branding and style. It even includes a theme switcher component to show how easily the entire style of the site can be changed with only a few lines of CSS.</p><ul><li>A Fully-featured blog with tagging</li><li>Fully theme-able styles for buttons, shpaes, backgrounds, surfaces, etc.</li><li>Responsive, mobile-friendly landing pages</li><li>SEO Best Practices (Open Graph, Canonical URLs, sitemap)</li><li>Performant local fonts setup</li><li>Contact forms setup for Netlify, Formspree, Formspark, etc.</li><li>A package of ready-to-use UI components</li></ul>",
-        "image": {
-            "src": "./images/odyssey-hero.png",
-            "alt": "A modern, full-featured theme for a business or startup marketing site."
-        },
-        "images": [
-            {
-                "src": "./images/odyssey.png",
-                "alt": "A modern, full-featured theme for a business or startup marketing site."
-            }
-        ],
-        "repoUrl": {
-            "href": "https://github.com/littlesticks/odyssey-theme",
-            "text": "Odyssey"
-        },
-        "demoUrl": {
-            "href": "https://odyssey-theme.littlesticks.dev/",
-            "text": "Odyssey"
-        },
-        "links": [
-            {
-                "href": "https://littlesticks.dev/discord",
-                "text": "Get help on Discord"
-            },
-            {
-                "href": "https://littlesticks.lemonsqueezy.com/checkout/buy/9b78751f-6382-442d-ac99-32c2318b70a0",
-                "text": "Support this theme"
-            }
-        ],
-        "categories": [
-            "landing-page"
-        ],
-        "featured": 3,
-        "slug": "odyssey",
-        "stars": 205,
-        "author": {
-            "text": "littlesticks",
-            "href": "https://github.com/littlesticks",
-            "avatar": "https://avatars.githubusercontent.com/u/105570423?v=4"
-        }
     },
     {
         "title": "Galaxy ",
@@ -1105,6 +1105,37 @@
             "text": "Lexington Themes"
         },
         "slug": "semplice",
+        "images": []
+    },
+    {
+        "title": "Spazio Bianco",
+        "description": "Spazio Bianco is a super cool UI KIT with beautiful and modern layouts.",
+        "fullDescription": "<p>✺&nbsp;<strong>Spazio Bianco UI kit</strong>&nbsp;━&nbsp;boasts an exquisite design that empowers you to efficiently create pages across diverse categories and customize them to your preferences, facilitating the construction of a landing page or website within hours instead of months.</p><p>The template is versatile and can be applied to various types of websites, such as marketing, SaaS, or product websites.</p><p>Spazio Bianco also comes with a settings dashboard that has 6 demo pages, which can be beneficial if you want to grant your customers access.</p><p><strong>The template includes:</strong></p><ul><li><strong>20+ Demo pages</strong></li><li><strong>80+ Sections</strong></li><li><strong>150+ Components</strong></li><li>3 Landing page demos</li><li>About</li><li>3 Pricing page demos</li><li>Blog Page One</li><li>Blog Post One</li><li>Cookie Seetings</li><li>Changelog</li><li>Terms Of use</li><li>Privacy Policy</li><li>Coming Soon</li><li>404</li><li>4 Different hero sections</li><li>12 Different feature sections</li><li>6 Different pricing sections</li><li>9 Different testimonial layouts</li></ul><p><strong>The template also includes a</strong></p><ul><li>Style Guide</li><li>Icons from Tabler Icons</li><li>Custom fonts: Inter</li><li>100%&nbsp;Responsive</li><li>A link to every demo page from the overview page</li></ul><p>When you purchase the template you get access to a very permissive license that you can read from here</p><ul><li><a href=\"https://lexingtonthemes.com/license/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\">License: lexingtonthemes.com/license</a></li></ul><p><strong>If you have any questions do not hesitate to reach out on:</strong></p><ul><li>Twitter.com/Mike_Andreuzza or&nbsp;Twitter.com/lexingtonthemes</li><li>Email: michael@lexingtonthemes.com</li></ul><p>Thank you so much for reading and showing interest on Spazio Bianco, if you need more templates, a bundle that includes all the templates, free updates is also offered on Lexington Themes.&nbsp;</p><ul><li><a href=\"https://lexingtonthemes.com/pricing/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\">Learn more about the bundle</a></li></ul><p><br></p>",
+        "image": {
+            "src": "./images/spazio-bianco-hero.png",
+            "alt": "Spazio Bianco is a super cool UI KIT with beautiful and modern layouts."
+        },
+        "buyUrl": {
+            "href": "https://lexingtonthemes.lemonsqueezy.com/checkout/buy/99afe682-cc70-4d85-b19a-debb968441b1",
+            "text": "Buy now"
+        },
+        "demoUrl": {
+            "href": "https://lexingtonthemes.com/viewports/spaziobianco/",
+            "text": "Spazio Bianco"
+        },
+        "categories": [
+            "landing-page",
+            "other"
+        ],
+        "tags": [
+            "tailwind",
+            "alpinejs"
+        ],
+        "author": {
+            "href": "https://lexingtonthemes.com/",
+            "text": "Lexington Themes"
+        },
+        "slug": "spazio-bianco",
         "images": []
     },
     {
@@ -2481,64 +2512,6 @@
         }
     },
     {
-        "title": "Massively",
-        "description": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license.",
-        "image": {
-            "src": "./images/massively.png",
-            "alt": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license."
-        },
-        "repoUrl": {
-            "href": "https://github.com/DBozhinovski/astro-massively",
-            "text": "Massively"
-        },
-        "demoUrl": {
-            "href": "https://astro-massively.darko.io/",
-            "text": "Massively"
-        },
-        "categories": [
-            "other"
-        ],
-        "tags": [
-            "sass",
-            "mdx"
-        ],
-        "slug": "massively",
-        "images": [],
-        "stars": 4,
-        "author": {
-            "text": "DBozhinovski",
-            "href": "https://github.com/DBozhinovski",
-            "avatar": "https://avatars.githubusercontent.com/u/271746?v=4"
-        }
-    },
-    {
-        "title": "StyleGAN3",
-        "description": "A simple template with Astro and StyleGAN3 style.",
-        "image": {
-            "src": "./images/stylegan3.png",
-            "alt": "A simple template with Astro and StyleGAN3 style."
-        },
-        "repoUrl": {
-            "href": "https://github.com/AREA44/astro-stylegan3",
-            "text": "StyleGAN3"
-        },
-        "demoUrl": {
-            "href": "https://area44.github.io/astro-stylegan3/",
-            "text": "StyleGAN3"
-        },
-        "categories": [
-            "minimal"
-        ],
-        "slug": "stylegan3",
-        "images": [],
-        "stars": 3,
-        "author": {
-            "text": "AREA44",
-            "href": "https://github.com/AREA44",
-            "avatar": "https://avatars.githubusercontent.com/u/45186712?v=4"
-        }
-    },
-    {
         "title": "Cute Blog",
         "description": "Blog with simple and unique design to create blog site using Astro, features cute blog with card design, markdown ready, and blog post cover image.",
         "image": {
@@ -2593,6 +2566,64 @@
             "text": "withastro",
             "href": "https://github.com/withastro",
             "avatar": "https://avatars.githubusercontent.com/u/44914786?v=4"
+        }
+    },
+    {
+        "title": "StyleGAN3",
+        "description": "A simple template with Astro and StyleGAN3 style.",
+        "image": {
+            "src": "./images/stylegan3.png",
+            "alt": "A simple template with Astro and StyleGAN3 style."
+        },
+        "repoUrl": {
+            "href": "https://github.com/AREA44/astro-stylegan3",
+            "text": "StyleGAN3"
+        },
+        "demoUrl": {
+            "href": "https://area44.github.io/astro-stylegan3/",
+            "text": "StyleGAN3"
+        },
+        "categories": [
+            "minimal"
+        ],
+        "slug": "stylegan3",
+        "images": [],
+        "stars": 3,
+        "author": {
+            "text": "AREA44",
+            "href": "https://github.com/AREA44",
+            "avatar": "https://avatars.githubusercontent.com/u/45186712?v=4"
+        }
+    },
+    {
+        "title": "Massively",
+        "description": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license.",
+        "image": {
+            "src": "./images/massively.png",
+            "alt": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license."
+        },
+        "repoUrl": {
+            "href": "https://github.com/DBozhinovski/astro-massively",
+            "text": "Massively"
+        },
+        "demoUrl": {
+            "href": "https://astro-massively.darko.io/",
+            "text": "Massively"
+        },
+        "categories": [
+            "other"
+        ],
+        "tags": [
+            "sass",
+            "mdx"
+        ],
+        "slug": "massively",
+        "images": [],
+        "stars": 0,
+        "author": {
+            "text": "DBozhinovski",
+            "href": "https://github.com/DBozhinovski",
+            "avatar": "https://avatars.githubusercontent.com/u/271746?v=4"
         }
     }
 ]
