@@ -39,7 +39,7 @@
         ],
         "featured": 1,
         "slug": "astro-paper",
-        "stars": 399,
+        "stars": 408,
         "author": {
             "text": "satnaing",
             "href": "https://github.com/satnaing",
@@ -99,11 +99,55 @@
         ],
         "featured": 2,
         "slug": "astroship",
-        "stars": 356,
+        "stars": 362,
         "author": {
             "text": "surjithctly",
             "href": "https://github.com/surjithctly",
             "avatar": "https://avatars.githubusercontent.com/u/1884712?v=4"
+        }
+    },
+    {
+        "title": "Odyssey",
+        "description": "A modern, full-featured theme for a business or startup marketing site.",
+        "fullDescription": "<h2>Foundation for a Remarkable Website</h2><p>Odyssey is a modern theme/starter for a business or startup's marketing website. It provides landing page examples, a full-featured blog, contact forms, and more. It is also fully theme-able to match your business' branding and style. It even includes a theme switcher component to show how easily the entire style of the site can be changed with only a few lines of CSS.</p><ul><li>A Fully-featured blog with tagging</li><li>Fully theme-able styles for buttons, shpaes, backgrounds, surfaces, etc.</li><li>Responsive, mobile-friendly landing pages</li><li>SEO Best Practices (Open Graph, Canonical URLs, sitemap)</li><li>Performant local fonts setup</li><li>Contact forms setup for Netlify, Formspree, Formspark, etc.</li><li>A package of ready-to-use UI components</li></ul>",
+        "image": {
+            "src": "./images/odyssey-hero.png",
+            "alt": "A modern, full-featured theme for a business or startup marketing site."
+        },
+        "images": [
+            {
+                "src": "./images/odyssey.png",
+                "alt": "A modern, full-featured theme for a business or startup marketing site."
+            }
+        ],
+        "repoUrl": {
+            "href": "https://github.com/littlesticks/odyssey-theme",
+            "text": "Odyssey"
+        },
+        "demoUrl": {
+            "href": "https://odyssey-theme.littlesticks.dev/",
+            "text": "Odyssey"
+        },
+        "links": [
+            {
+                "href": "https://littlesticks.dev/discord",
+                "text": "Get help on Discord"
+            },
+            {
+                "href": "https://littlesticks.lemonsqueezy.com/checkout/buy/9b78751f-6382-442d-ac99-32c2318b70a0",
+                "text": "Support this theme"
+            }
+        ],
+        "categories": [
+            "landing-page"
+        ],
+        "featured": 3,
+        "slug": "odyssey",
+        "stars": 207,
+        "author": {
+            "text": "littlesticks",
+            "href": "https://github.com/littlesticks",
+            "avatar": "https://avatars.githubusercontent.com/u/105570423?v=4"
         }
     },
     {
@@ -148,7 +192,7 @@
         ],
         "featured": 9,
         "slug": "astro-landing-page",
-        "stars": 175,
+        "stars": 180,
         "author": {
             "text": "mhyfritz",
             "href": "https://github.com/mhyfritz",
@@ -219,7 +263,7 @@
         ],
         "featured": 8,
         "slug": "accessible-astro-starter",
-        "stars": 157,
+        "stars": 159,
         "author": {
             "text": "markteekman",
             "href": "https://github.com/markteekman",
@@ -280,7 +324,7 @@
         },
         "featured": 10,
         "slug": "astro-ecommerce",
-        "stars": 51
+        "stars": 52
     },
     {
         "title": "Astrosaas",
@@ -402,7 +446,7 @@
             "other"
         ],
         "slug": "astro-shopify",
-        "stars": 24,
+        "stars": 25,
         "author": {
             "text": "thomasKn",
             "href": "https://github.com/thomasKn",
@@ -516,7 +560,7 @@
         "featured": 11,
         "slug": "blogster-bubblegum",
         "images": [],
-        "stars": 145,
+        "stars": 149,
         "author": {
             "text": "flexdinesh",
             "href": "https://github.com/flexdinesh",
@@ -549,7 +593,7 @@
         "fullDescription": "<p>A light weight theme built with plain old HTML and CSS. No external fonts or icons. Zero JavaScript. You get a full functional nice looking blog that loads super fast.</p>",
         "slug": "blogster-minimal",
         "images": [],
-        "stars": 145,
+        "stars": 149,
         "author": {
             "text": "flexdinesh",
             "href": "https://github.com/flexdinesh",
@@ -587,7 +631,7 @@
         "fullDescription": "<p>A beautiful, performant and accessible theme built with <a href=\"https://tailwindcss.com\" rel=\"noopener noreferrer\" target=\"_blank\">Tailwind</a>.</p><ul><li><strong>Newspaper.</strong> A crispy <a href=\"https://astro.build\" rel=\"noopener noreferrer\" target=\"_blank\">Astro</a> theme built with <a href=\"https://tailwindcss.com\" rel=\"noopener noreferrer\" target=\"_blank\">Tailwind</a>.</li><li><strong>Fast.</strong> Fast by default. Blogster templates are engineered to be performant and load before you could blink, even when not cached.</li><li><strong>Dark mode.</strong> Auto dark mode with a manual toggle. Hit that toggle button at the top of the page and see the mode change.</li><li><strong>Mobile first.</strong> Responsive and loads fast in all devices.</li><li><strong>Accessible.</strong> A well thought out semantic and accessible content.</li><li><strong>Perfect lighthouse score.</strong> 100 across the board.</li><li><strong>Content authoring for everyone.</strong> Author content using markdown (<code>.md</code>) from your code editor or directly in GitHub.</li><li> <strong>Extended markdown</strong> with <a href=\"https://markdoc.dev\" rel=\"noopener noreferrer\" target=\"_blank\">Markdoc</a>.   Type-safe custom components like YouTube embed, Twitter embed (or anything you want really) in your markdown (<code>.md</code>) files.</li><li>Built-in <strong>RSS feed</strong> for your blog, excellent<strong> SEO</strong> and more.</li></ul>",
         "slug": "blogster-newspaper",
         "images": [],
-        "stars": 145,
+        "stars": 149,
         "author": {
             "text": "flexdinesh",
             "href": "https://github.com/flexdinesh",
@@ -625,7 +669,7 @@
         "fullDescription": "<p>A beautiful, performant and accessible theme built with <a href=\"https://tailwindcss.com\" rel=\"noopener noreferrer\" target=\"_blank\">Tailwind</a>.</p><ul><li><strong>Sleek.</strong> A beautiful <a href=\"https://astro.build\" rel=\"noopener noreferrer\" target=\"_blank\">Astro</a> theme built with <a href=\"https://tailwindcss.com\" rel=\"noopener noreferrer\" target=\"_blank\">Tailwind</a>.</li><li><strong>Fast.</strong> Fast by default. Blogster templates are engineered to be performant and load before you could blink, even when not cached.</li><li><strong>Dark mode.</strong> Auto dark mode with a manual toggle. Hit that toggle button at the top of the page and see the mode change.</li><li><strong>Mobile first.</strong> Responsive and loads fast in all devices.</li><li><strong>Accessible.</strong> A well thought out semantic and accessible content.</li><li><strong>Perfect lighthouse score.</strong> 100 across the board.</li><li><strong>Content authoring for everyone.</strong> Author content using markdown (<code>.md</code>) from your code editor or directly in GitHub.</li><li> <strong>Extended markdown</strong> with <a href=\"https://markdoc.dev\" rel=\"noopener noreferrer\" target=\"_blank\">Markdoc</a>.   Type-safe custom components like YouTube embed, Twitter embed (or anything you want really) in your markdown (<code>.md</code>) files.</li><li>Built-in <strong>RSS feed</strong> for you blog, excellent<strong> SEO</strong> and more.</li></ul>",
         "slug": "blogster-sleek",
         "images": [],
-        "stars": 145,
+        "stars": 149,
         "author": {
             "text": "flexdinesh",
             "href": "https://github.com/flexdinesh",
@@ -707,11 +751,51 @@
         ],
         "featured": 6,
         "slug": "creek",
-        "stars": 84,
+        "stars": 85,
         "author": {
             "text": "robertguss",
             "href": "https://github.com/robertguss",
             "avatar": "https://avatars.githubusercontent.com/u/5605310?v=4"
+        }
+    },
+    {
+        "title": "Quick Store",
+        "description": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy.",
+        "fullDescription": "<p><span style=\"color: var(--tw-prose-bold);\">Built with Astro.js</span></p><p>Astro is an all-in-one web framework for building fast, content-focused websites.</p><p><span style=\"color: var(--tw-prose-bold);\">Styled with Tailwind CSS</span></p><p>Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.</p><p><span style=\"color: var(--tw-prose-bold);\">Relived with Alpine.js</span></p><p>Alpine is a rugged, minimal tool for composing behavior directly in your markup. Think of it like jQuery for the modern web. Plop in a script tag and get going.</p><p><span style=\"color: var(--tw-prose-bold);\">Keyboard accessible</span></p><p>Everything I build is keyboard accessible, and I meticulously write the markup to deliver the best screenreader experience I can provide.</p><p><span style=\"color: var(--tw-prose-bold);\">Production-ready</span></p><p>I tested the template in the latest versions of all browsers to handle lots of edge-cases you might encounter.</p><p><span style=\"color: var(--tw-prose-bold);\">Simple deploys</span></p><p>The template is production-ready and easily deployed anywhere that you can deploy a static wbsites, like Vercel, Netlify, GitHub pages, a bounch of options..</p><p><br></p><h2>Plugins, integrations and stack.</h2><p>Supreme templates are thoughtfully crafted with the latest Astro, Tailwind and Alpine.js integrations and versions to keep it simple and easy to maintain.</p><h2>Uses</h2><ul><li>Tailwind</li><li>@astrojs/alpinejs</li><li>@astrojs/seo</li><li>@astrojs/image</li><li>@astrojs/compress</li><li>@astrojs/sitemap</li><li>@astrojs/partytown</li></ul><p><br></p>",
+        "image": {
+            "src": "./images/quick-store-hero.png",
+            "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
+        },
+        "images": [
+            {
+                "src": "./images/quick-store-2.png",
+                "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
+            },
+            {
+                "src": "./images/quick-store-3.png",
+                "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
+            }
+        ],
+        "repoUrl": {
+            "href": "https://github.com/michael-andreuzza/quickstore",
+            "text": "Quick Store"
+        },
+        "demoUrl": {
+            "href": "https://github.com/michael-andreuzza/quickstore",
+            "text": "Quick Store"
+        },
+        "categories": [
+            "other"
+        ],
+        "tags": [
+            "tailwind"
+        ],
+        "slug": "quick-store",
+        "stars": 18,
+        "author": {
+            "text": "michael-andreuzza",
+            "href": "https://github.com/michael-andreuzza",
+            "avatar": "https://avatars.githubusercontent.com/u/34077176?v=4"
         }
     },
     {
@@ -744,7 +828,7 @@
         ],
         "fullDescription": "<p>Welcome to the Dokto starter, featuring Astro/Alpine.js and Tailwind CSS! This product is designed with best practices in mind, ensuring a smooth and efficient user experience for your healthcare or medical business.</p><h2>Features</h2><ul><li><strong>High design quality</strong>: Our team of designers has created vector assets with a focus on clean, modern aesthetics, perfect for any healthcare or medical business.</li><li><strong>Best practices</strong>: We've included helpful guidelines and tips to ensure that you're using the theme effectively and efficiently.</li><li><strong>Vector assets</strong>: All graphics are provided in vector format, allowing for easy scaling and customization to fit your specific needs.</li><li><strong>Astro/Alpine.js and Tailwind CSS</strong>: These powerful frameworks enable fast and flexible development, ensuring a high-quality end result.</li></ul><p>With Dokto, you can be confident that your healthcare or medical business will have a professional and polished online presence. </p>",
         "slug": "dokto-doctor-appointments",
-        "stars": 9,
+        "stars": 10,
         "author": {
             "text": "cssninjaStudio",
             "href": "https://github.com/cssninjaStudio",
@@ -781,50 +865,6 @@
         },
         "slug": "flabbergasted",
         "images": []
-    },
-    {
-        "title": "Odyssey",
-        "description": "A modern, full-featured theme for a business or startup marketing site.",
-        "fullDescription": "<h2>Foundation for a Remarkable Website</h2><p>Odyssey is a modern theme/starter for a business or startup's marketing website. It provides landing page examples, a full-featured blog, contact forms, and more. It is also fully theme-able to match your business' branding and style. It even includes a theme switcher component to show how easily the entire style of the site can be changed with only a few lines of CSS.</p><ul><li>A Fully-featured blog with tagging</li><li>Fully theme-able styles for buttons, shpaes, backgrounds, surfaces, etc.</li><li>Responsive, mobile-friendly landing pages</li><li>SEO Best Practices (Open Graph, Canonical URLs, sitemap)</li><li>Performant local fonts setup</li><li>Contact forms setup for Netlify, Formspree, Formspark, etc.</li><li>A package of ready-to-use UI components</li></ul>",
-        "image": {
-            "src": "./images/odyssey-hero.png",
-            "alt": "A modern, full-featured theme for a business or startup marketing site."
-        },
-        "images": [
-            {
-                "src": "./images/odyssey.png",
-                "alt": "A modern, full-featured theme for a business or startup marketing site."
-            }
-        ],
-        "repoUrl": {
-            "href": "https://github.com/littlesticks/odyssey-theme",
-            "text": "Odyssey"
-        },
-        "demoUrl": {
-            "href": "https://odyssey-theme.littlesticks.dev/",
-            "text": "Odyssey"
-        },
-        "links": [
-            {
-                "href": "https://littlesticks.dev/discord",
-                "text": "Get help on Discord"
-            },
-            {
-                "href": "https://littlesticks.lemonsqueezy.com/checkout/buy/9b78751f-6382-442d-ac99-32c2318b70a0",
-                "text": "Support this theme"
-            }
-        ],
-        "categories": [
-            "landing-page"
-        ],
-        "featured": 3,
-        "slug": "odyssey",
-        "stars": 205,
-        "author": {
-            "text": "littlesticks",
-            "href": "https://github.com/littlesticks",
-            "avatar": "https://avatars.githubusercontent.com/u/105570423?v=4"
-        }
     },
     {
         "title": "Galaxy ",
@@ -1099,46 +1139,6 @@
         "slug": "pro-file"
     },
     {
-        "title": "Quick Store",
-        "description": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy.",
-        "fullDescription": "<p><span style=\"color: var(--tw-prose-bold);\">Built with Astro.js</span></p><p>Astro is an all-in-one web framework for building fast, content-focused websites.</p><p><span style=\"color: var(--tw-prose-bold);\">Styled with Tailwind CSS</span></p><p>Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.</p><p><span style=\"color: var(--tw-prose-bold);\">Relived with Alpine.js</span></p><p>Alpine is a rugged, minimal tool for composing behavior directly in your markup. Think of it like jQuery for the modern web. Plop in a script tag and get going.</p><p><span style=\"color: var(--tw-prose-bold);\">Keyboard accessible</span></p><p>Everything I build is keyboard accessible, and I meticulously write the markup to deliver the best screenreader experience I can provide.</p><p><span style=\"color: var(--tw-prose-bold);\">Production-ready</span></p><p>I tested the template in the latest versions of all browsers to handle lots of edge-cases you might encounter.</p><p><span style=\"color: var(--tw-prose-bold);\">Simple deploys</span></p><p>The template is production-ready and easily deployed anywhere that you can deploy a static wbsites, like Vercel, Netlify, GitHub pages, a bounch of options..</p><p><br></p><h2>Plugins, integrations and stack.</h2><p>Supreme templates are thoughtfully crafted with the latest Astro, Tailwind and Alpine.js integrations and versions to keep it simple and easy to maintain.</p><h2>Uses</h2><ul><li>Tailwind</li><li>@astrojs/alpinejs</li><li>@astrojs/seo</li><li>@astrojs/image</li><li>@astrojs/compress</li><li>@astrojs/sitemap</li><li>@astrojs/partytown</li></ul><p><br></p>",
-        "image": {
-            "src": "./images/quick-store-hero.png",
-            "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
-        },
-        "images": [
-            {
-                "src": "./images/quick-store-2.png",
-                "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
-            },
-            {
-                "src": "./images/quick-store-3.png",
-                "alt": "A simple Astro and Tailwind CSS template for your store. Embed products from services like Gumroad or Lemonsqueezy."
-            }
-        ],
-        "repoUrl": {
-            "href": "https://github.com/michael-andreuzza/quickstore",
-            "text": "Quick Store"
-        },
-        "demoUrl": {
-            "href": "https://github.com/michael-andreuzza/quickstore",
-            "text": "Quick Store"
-        },
-        "categories": [
-            "other"
-        ],
-        "tags": [
-            "tailwind"
-        ],
-        "slug": "quick-store",
-        "stars": 16,
-        "author": {
-            "text": "michael-andreuzza",
-            "href": "https://github.com/michael-andreuzza",
-            "avatar": "https://avatars.githubusercontent.com/u/34077176?v=4"
-        }
-    },
-    {
         "title": "Semplice",
         "description": "A modern & clean UI Kit with more than 70 sections, 40 demo pages and 100s of components.",
         "fullDescription": "<p>✺&nbsp;<strong>Semplice UI kit</strong>&nbsp;━&nbsp;boasts an exquisite design that empowers you to efficiently create pages across diverse categories and customize them to your preferences, facilitating the construction of a landing page or website within hours instead of months. </p><p>The template is versatile and can be applied to various types of websites, such as marketing, saas, or product websites. </p><p>Semplice also comes with a settings dashboard that has 6 demo pages, which can be beneficial if you want to grant your customers access.</p><p><strong>The template includes:</strong></p><ul><li> <strong>30+ Demo pages</strong></li><li><strong>70+ Sections</strong></li><li><strong>100+ Components</strong></li><li>2 Landing page demo</li><li>About</li><li>Blog</li><li>Blog Post</li><li>Jobs</li><li>Open Postions</li><li>Postion</li><li>Status</li><li>Terms Of use</li><li>Privacy Policy</li><li>Coming Soon</li><li>404</li><li>Contact</li><li>Submit</li><li>Login</li><li>Sign up</li><li>Forgot Password</li><li>Reset Password</li><li>Help Center</li><li>Single Topic</li><li>Article</li><li>Video Article</li><li>Course Library</li><li>Lesson</li><li>Changelog</li><li>Settings Dashboard</li><li>General</li><li>Teams</li><li>Conexions</li><li>Billing</li><li>Invoices</li><li>Tokens</li><li>System Pages</li></ul><p><strong>The template also includes a</strong></p><ul><li>Style Guide</li><li>Icons from Tabler Icons</li><li>Custom fonts from cdnfonts.com ( Only the CDN )</li><li>100%&nbsp;Responsive</li><li>A link to every demo page from the overview page</li></ul><p>When you purchase the template you get access to a very permissive license that you can read from here</p><ul><li><a href=\"https://lexingtonthemes.com/license/\" rel=\"noopener noreferrer\" target=\"_blank\">License: lexingtonthemes.com/license</a></li></ul><p><strong>If you have any questions do not hesitate to reach out on:</strong></p><ul><li>Twitter.com/Mike_Andreuzza or&nbsp;Twitter.com/lexingtonthemes</li><li>Email: michael@lexingtonthemes.com</li></ul><p>Thank you so much for reading and showing interest on Semplice, if you need more templates, a bundle that includes all the templates, free updates is also offered on Lexington Themes.&nbsp;</p><ul><li><a href=\"https://lexingtonthemes.com/pricing/\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about the bundle</a></li></ul>",
@@ -1347,7 +1347,7 @@
             "mdx"
         ],
         "slug": "astrowind",
-        "stars": 657,
+        "stars": 665,
         "author": {
             "text": "onwidget",
             "href": "https://github.com/onwidget",
@@ -1453,7 +1453,7 @@
         ],
         "slug": "astro-cactus",
         "images": [],
-        "stars": 148,
+        "stars": 153,
         "author": {
             "text": "chrismwilliams",
             "href": "https://github.com/chrismwilliams",
@@ -1483,7 +1483,7 @@
         ],
         "slug": "accessible-astro-dashboard",
         "images": [],
-        "stars": 54,
+        "stars": 55,
         "author": {
             "text": "markteekman",
             "href": "https://github.com/markteekman",
@@ -1513,7 +1513,7 @@
         ],
         "slug": "astro-pwa-starter",
         "images": [],
-        "stars": 52,
+        "stars": 53,
         "author": {
             "text": "shaunchander",
             "href": "https://github.com/shaunchander",
@@ -1690,7 +1690,7 @@
         ],
         "slug": "art-portfolio",
         "images": [],
-        "stars": 27,
+        "stars": 28,
         "author": {
             "text": "EmaSuriano",
             "href": "https://github.com/EmaSuriano",
@@ -1729,6 +1729,66 @@
         }
     },
     {
+        "title": "Astro Portfolio",
+        "description": "A minimal, opinionated starter that ships with full PWA support out the box. It also comes with TailwindCSS preinstalled as well as sensible ESLint and Prettier configurations.",
+        "image": {
+            "src": "./images/astro-portfolio.png",
+            "alt": "A minimal, opinionated starter that ships with full PWA support out the box. It also comes with TailwindCSS preinstalled as well as sensible ESLint and Prettier configurations."
+        },
+        "repoUrl": {
+            "href": "https://github.com/uzzii-21/astro-portfolio",
+            "text": "Astro Portfolio"
+        },
+        "demoUrl": {
+            "href": "https://astro-portfolio-uzair.vercel.app/",
+            "text": "Astro Portfolio"
+        },
+        "categories": [
+            "portfolio"
+        ],
+        "tags": [
+            "tailwind"
+        ],
+        "slug": "astro-portfolio",
+        "images": [],
+        "stars": 20,
+        "author": {
+            "text": "uzzii-21",
+            "href": "https://github.com/uzzii-21",
+            "avatar": "https://avatars.githubusercontent.com/u/57315924?v=4"
+        }
+    },
+    {
+        "title": "Astro Big Doc",
+        "description": "Astro Theme that can scale for big documentation websites. Includes an unimited depth config menu that starts with a top appbar for sections navigation, then continues on a tree left menu for pages.",
+        "image": {
+            "src": "./images/astro-big-doc.png",
+            "alt": "Astro Theme that can scale for big documentation websites. Includes an unimited depth config menu that starts with a top appbar for sections navigation, then continues on a tree left menu for pages."
+        },
+        "repoUrl": {
+            "href": "https://github.com/MicroWebStacks/astro-big-doc",
+            "text": "Astro Big Doc"
+        },
+        "demoUrl": {
+            "href": "https://microwebstacks.github.io/astro-big-doc/",
+            "text": "Astro Big Doc"
+        },
+        "categories": [
+            "docs"
+        ],
+        "tags": [
+            "mdx"
+        ],
+        "slug": "astro-big-doc",
+        "images": [],
+        "stars": 19,
+        "author": {
+            "text": "MicroWebStacks",
+            "href": "https://github.com/MicroWebStacks",
+            "avatar": "https://avatars.githubusercontent.com/u/104671204?v=4"
+        }
+    },
+    {
         "title": "Astro Blog Markdown",
         "description": "Starter for accessible, fast and SEO friendly Astro blog using a spot of Svelte.",
         "image": {
@@ -1760,36 +1820,6 @@
         }
     },
     {
-        "title": "Astro Portfolio",
-        "description": "A minimal, opinionated starter that ships with full PWA support out the box. It also comes with TailwindCSS preinstalled as well as sensible ESLint and Prettier configurations.",
-        "image": {
-            "src": "./images/astro-portfolio.png",
-            "alt": "A minimal, opinionated starter that ships with full PWA support out the box. It also comes with TailwindCSS preinstalled as well as sensible ESLint and Prettier configurations."
-        },
-        "repoUrl": {
-            "href": "https://github.com/uzzii-21/astro-portfolio",
-            "text": "Astro Portfolio"
-        },
-        "demoUrl": {
-            "href": "https://astro-portfolio-uzair.vercel.app/",
-            "text": "Astro Portfolio"
-        },
-        "categories": [
-            "portfolio"
-        ],
-        "tags": [
-            "tailwind"
-        ],
-        "slug": "astro-portfolio",
-        "images": [],
-        "stars": 19,
-        "author": {
-            "text": "uzzii-21",
-            "href": "https://github.com/uzzii-21",
-            "avatar": "https://avatars.githubusercontent.com/u/57315924?v=4"
-        }
-    },
-    {
         "title": "AgnosticUI Starter Kit",
         "description": "A starter template for leveraging AgnosticUI + Astro to render React, Vue 3, and Svelte. Themable via CSS custom properties.",
         "image": {
@@ -1815,36 +1845,6 @@
             "text": "AgnosticUI",
             "href": "https://github.com/AgnosticUI",
             "avatar": "https://avatars.githubusercontent.com/u/70919102?v=4"
-        }
-    },
-    {
-        "title": "Astro Big Doc",
-        "description": "Astro Theme that can scale for big documentation websites. Includes an unimited depth config menu that starts with a top appbar for sections navigation, then continues on a tree left menu for pages.",
-        "image": {
-            "src": "./images/astro-big-doc.png",
-            "alt": "Astro Theme that can scale for big documentation websites. Includes an unimited depth config menu that starts with a top appbar for sections navigation, then continues on a tree left menu for pages."
-        },
-        "repoUrl": {
-            "href": "https://github.com/MicroWebStacks/astro-big-doc",
-            "text": "Astro Big Doc"
-        },
-        "demoUrl": {
-            "href": "https://microwebstacks.github.io/astro-big-doc/",
-            "text": "Astro Big Doc"
-        },
-        "categories": [
-            "docs"
-        ],
-        "tags": [
-            "mdx"
-        ],
-        "slug": "astro-big-doc",
-        "images": [],
-        "stars": 17,
-        "author": {
-            "text": "MicroWebStacks",
-            "href": "https://github.com/MicroWebStacks",
-            "avatar": "https://avatars.githubusercontent.com/u/104671204?v=4"
         }
     },
     {
@@ -2049,7 +2049,7 @@
         ],
         "slug": "astro-business-template",
         "images": [],
-        "stars": 3,
+        "stars": 4,
         "author": {
             "text": "netlesh",
             "href": "https://github.com/netlesh",
@@ -2184,7 +2184,7 @@
         ],
         "slug": "modern-personal",
         "images": [],
-        "stars": 116,
+        "stars": 117,
         "author": {
             "text": "manuelernestog",
             "href": "https://github.com/manuelernestog",
@@ -2215,7 +2215,7 @@
         ],
         "slug": "tailcast",
         "images": [],
-        "stars": 60,
+        "stars": 61,
         "author": {
             "text": "matt765",
             "href": "https://github.com/matt765",
@@ -2245,7 +2245,7 @@
         ],
         "slug": "daisy-blog",
         "images": [],
-        "stars": 40,
+        "stars": 41,
         "author": {
             "text": "saadeghi",
             "href": "https://github.com/saadeghi",
@@ -2308,7 +2308,7 @@
         ],
         "slug": "no-fuss-astro",
         "images": [],
-        "stars": 26,
+        "stars": 27,
         "author": {
             "text": "lancerossdev",
             "href": "https://github.com/lancerossdev",
@@ -2605,6 +2605,64 @@
         }
     },
     {
+        "title": "Massively",
+        "description": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license.",
+        "image": {
+            "src": "./images/massively.png",
+            "alt": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license."
+        },
+        "repoUrl": {
+            "href": "https://github.com/DBozhinovski/astro-massively",
+            "text": "Massively"
+        },
+        "demoUrl": {
+            "href": "https://astro-massively.darko.io/",
+            "text": "Massively"
+        },
+        "categories": [
+            "other"
+        ],
+        "tags": [
+            "sass",
+            "mdx"
+        ],
+        "slug": "massively",
+        "images": [],
+        "stars": 4,
+        "author": {
+            "text": "DBozhinovski",
+            "href": "https://github.com/DBozhinovski",
+            "avatar": "https://avatars.githubusercontent.com/u/271746?v=4"
+        }
+    },
+    {
+        "title": "StyleGAN3",
+        "description": "A simple template with Astro and StyleGAN3 style.",
+        "image": {
+            "src": "./images/stylegan3.png",
+            "alt": "A simple template with Astro and StyleGAN3 style."
+        },
+        "repoUrl": {
+            "href": "https://github.com/AREA44/astro-stylegan3",
+            "text": "StyleGAN3"
+        },
+        "demoUrl": {
+            "href": "https://area44.github.io/astro-stylegan3/",
+            "text": "StyleGAN3"
+        },
+        "categories": [
+            "minimal"
+        ],
+        "slug": "stylegan3",
+        "images": [],
+        "stars": 4,
+        "author": {
+            "text": "AREA44",
+            "href": "https://github.com/AREA44",
+            "avatar": "https://avatars.githubusercontent.com/u/45186712?v=4"
+        }
+    },
+    {
         "title": "Cute Blog",
         "description": "Blog with simple and unique design to create blog site using Astro, features cute blog with card design, markdown ready, and blog post cover image.",
         "image": {
@@ -2635,6 +2693,46 @@
         }
     },
     {
+        "title": "Brutal",
+        "description": "Brutal is a minimal neobrutalist theme for Astro. It's based on Neobrutalist Web Design, a movement that aims to create websites with a minimalistic and functional design. It has some integrations like Image Optimization, RSS, Sitemap, ready to get your SEO done right.",
+        "image": {
+            "src": "./images/brutal.png",
+            "alt": "Brutal is a minimal neobrutalist theme for Astro. It's based on Neobrutalist Web Design, a movement that aims to create websites with a minimalistic and functional design. It has some integrations like Image Optimization, RSS, Sitemap, ready to get your SEO done right."
+        },
+        "repoUrl": {
+            "href": "https://github.com/eliancodes/brutal",
+            "text": "Brutal"
+        },
+        "demoUrl": {
+            "href": "https://brutal.elian.codes",
+            "text": "Brutal"
+        },
+        "categories": [
+            "blog",
+            "portfolio",
+            "minimal"
+        ],
+        "tags": [
+            "typescript"
+        ],
+        "keywords": [
+            "blog",
+            "minimal",
+            "UnoCSS",
+            "typescript",
+            "brutal",
+            "neobrutalism"
+        ],
+        "slug": "brutal",
+        "images": [],
+        "stars": 0,
+        "author": {
+            "text": "ElianCodes",
+            "href": "https://github.com/ElianCodes",
+            "avatar": "https://avatars.githubusercontent.com/u/15145918?v=4"
+        }
+    },
+    {
         "title": "Docs",
         "description": "A full-featured documentation theme.",
         "image": {
@@ -2659,64 +2757,6 @@
             "text": "withastro",
             "href": "https://github.com/withastro",
             "avatar": "https://avatars.githubusercontent.com/u/44914786?v=4"
-        }
-    },
-    {
-        "title": "StyleGAN3",
-        "description": "A simple template with Astro and StyleGAN3 style.",
-        "image": {
-            "src": "./images/stylegan3.png",
-            "alt": "A simple template with Astro and StyleGAN3 style."
-        },
-        "repoUrl": {
-            "href": "https://github.com/AREA44/astro-stylegan3",
-            "text": "StyleGAN3"
-        },
-        "demoUrl": {
-            "href": "https://area44.github.io/astro-stylegan3/",
-            "text": "StyleGAN3"
-        },
-        "categories": [
-            "minimal"
-        ],
-        "slug": "stylegan3",
-        "images": [],
-        "stars": 3,
-        "author": {
-            "text": "AREA44",
-            "href": "https://github.com/AREA44",
-            "avatar": "https://avatars.githubusercontent.com/u/45186712?v=4"
-        }
-    },
-    {
-        "title": "Massively",
-        "description": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license.",
-        "image": {
-            "src": "./images/massively.png",
-            "alt": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license."
-        },
-        "repoUrl": {
-            "href": "https://github.com/DBozhinovski/astro-massively",
-            "text": "Massively"
-        },
-        "demoUrl": {
-            "href": "https://astro-massively.darko.io/",
-            "text": "Massively"
-        },
-        "categories": [
-            "other"
-        ],
-        "tags": [
-            "sass",
-            "mdx"
-        ],
-        "slug": "massively",
-        "images": [],
-        "stars": 0,
-        "author": {
-            "text": "DBozhinovski",
-            "href": "https://github.com/DBozhinovski",
-            "avatar": "https://avatars.githubusercontent.com/u/271746?v=4"
         }
     }
 ]
